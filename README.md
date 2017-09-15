@@ -3,6 +3,7 @@
 > This is a basic http routing (url routing) example using angular 4.
 
 ## To Run Project
+1. Download this repository in workspace
 
 2. Create file ``.editorconfig`` in root folder
 ```
